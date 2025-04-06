@@ -26,6 +26,7 @@ To reduce late-stage offer declines by identifying the most frequent rejection r
 🖼️ **Example:**
 ![Pareto Chart – Offer Decline Reasons](./pareto_offer_declines.png)
 
+
 > 📌 *Compensation alone caused 52% of all offer declines. The top 3 reasons account for over 80% of cases.*
 
 ---
